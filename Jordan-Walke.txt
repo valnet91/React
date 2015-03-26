@@ -3,5 +3,5 @@
 - Début développement et utilisation en interne "facebook" React année 2011 -> Jordan Walke Ingénieur chez Facebook.
 
 - Lancement de react le 26 mars 2015
-
+- Renaissance de JS
 Licence MIT License
