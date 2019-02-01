@@ -1,13 +1,13 @@
 
 - [Pré-requis à l'utilisation de React](#Pré-requis-à-l-utilisation-de-React)
-  - [Les 3 langages que nous utiliserons dans le terminal. Ici wt.exe (Windows terminal) node yar/npm React](#Les-3-langages-que-nous-utiliserons-dans-le-terminal.-Ici-wt.exe-(Windows-terminal)-node-yar/npm-React)
+  - [Les 3 langages que nous utiliserons dans le terminal. Ici wt.exe (Windows terminal) node yarn et/ou npm React](#Les-3-langages-que-nous-utiliserons-dans-le-terminal.-Ici-wt.exe-(Windows-terminal)-node-yarn-et/ou-npm-React)
   - [Git Bash](#Git-Bash)
   - [Le terminal](#Le-terminal)
   - [Le Glossaire de Bash dans Git](#Le-Glossaire-de-Bash-dans-Git)
   - [Le Glossaire de Git](#Le-Glossaire-de-Git)
-  - [Exemples concrèts (production) d'utilisation de Git](#Exemples-concrèts-(production)-d-utilisation-de-Git)
+  - [Exemples concrèts (production) d'utilisation de Git](#Exemples-concrets-(production)-d-utilisation-de-Git)
 # Pré-requis à l'utilisation de React
-## Les 3 langages que nous utiliserons dans le terminal. Ici wt.exe (Windows terminal) node yar/npm React
+## Les 3 langages que nous utiliserons dans le terminal. Ici wt.exe (Windows terminal) node yarn et/ou npm React
 
 ### 1/    Bash exemple:  `mkdir Nom_Du_Repertoire`
 
@@ -879,4 +879,4 @@ Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique
 
 ### des exemples de Git
 
-- 13-Jun-2022/16:48:51.361+2:00 JJ V
+- 14-Jun-2022/9:06:40.215+2:00 JJ V
