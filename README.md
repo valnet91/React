@@ -1,5 +1,5 @@
 
-- [Pré-requis a l'utilisation de React](#pre-requis-a-l-utilisation-de-react)
+- [Pré-requis a l'utilisation de React](#pre-requis-a-l'utilisation-de-react)
   - [Les 3 langages que nous utiliserons dans (le terminal) Ici wt.exe Windows terminal node yarn et-ou npm React](#les-3-langages-que-nous-utiliserons-dans--le-terminal--ici-wt-exe-windows-terminal-node-yarn-et-ou-npm-react)
   - [Git Bash](#git-bash)
   - [Le terminal](#le-terminal)
@@ -879,4 +879,4 @@ Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique
 
 ### des exemples de Git
 
-- 14-Jun-2022/9:41:01.809+2:00 JJ V
+- 14-Jun-2022/10:10:32.351+2:00 JJ V
