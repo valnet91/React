@@ -7,7 +7,7 @@
 **[Le Glossaire de Bash dans Git](#Le-Glossaire-de-Bash-dans-Git)**<br>
 **[Le Glossaire de Git](#Le-Glossaire-de-Git)**<br>
 **[Exemples concrèts (production) d'utilisation de Git](#Exemples-concrèts-(production)-dutilisation-de-Git)**<br>
-# Pré-requis à l'utilisation de React
+## Pré-requis à l'utilisation de React
 ## Les 3 langages que _ nous utiliserons dans le \ terminal Windows terminal node yarn et-ou npm Reacté è ç à ù
 
 ### 1/    Bash exemple:  `mkdir Nom_Du_Repertoire`
@@ -880,4 +880,4 @@ Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique
 
 ### des exemples de Git
 
-- 14-Jun-2022/12:35:42.911+2:00 JJ V
+- 14-Jun-2022/12:40:33.882+2:00 JJ V
