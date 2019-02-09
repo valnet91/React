@@ -1,11 +1,10 @@
-
 ### Table of Contents
-**[Pré-requis à l'utilisation de React] (#Pré-requis-à-lutilisation-de-React)**<br>
-**[Les 3 langages que _ nous utiliserons dans le \ terminal Windows terminal node yarn et-ou npm Reacté è ç à ù](#Les-3-langages-que-_-nous-utiliserons-dans-le-\-terminal-Windows-terminal-node-yarn-et-ou-npm-Reacté-è-ç-à-ù)**<br>
+**[Pré-requis à l'utilisation de React](#pré-requis-à-lutilisation-de-react)**<br>
+**[Les 3 langages que _ nous utiliserons dans le \ terminal Windows terminal node yarn et-ou npm Reacté è ç à ù](#les-3-langages-que-_-nous-utiliserons-dans-le-\-terminal-windows-terminal-node-yarn-et-ou-npm-reacté-è-ç-à-ù)**<br>
 **[Git Bash](#Git-Bash)**<br>
-**[Le terminal](#Le-terminal)**<br>
-**[Le Glossaire de Bash dans Git](#Le-Glossaire-de-Bash-dans-Git)**<br>
-**[Le Glossaire de Git](#Le-Glossaire-de-Git)**<br>
+**[Le terminal](#le-terminal)**<br>
+**[Le Glossaire de Bash dans Git](#le-Glossaire-de-Bash-dans-Git)**<br>
+**[Le Glossaire de Git](#le-Glossaire-de-Git)**<br>
 **[Exemples concrèts (production) d'utilisation de Git](#Exemples-concrèts-(production)-dutilisation-de-Git)**<br>
 ## Pré-requis à l'utilisation de React
 ## Les 3 langages que _ nous utiliserons dans le \ terminal Windows terminal node yarn et-ou npm Reacté è ç à ù
@@ -880,4 +879,4 @@ Affiche les modifications le dernier `-n1` commit sur nom_du_fichier. Historique
 
 ### des exemples de Git
 
-- 14-Jun-2022/12:41:14.495+2:00 JJ V
+- 14-Jun-2022/13:17:07.412+2:00 JJ V
